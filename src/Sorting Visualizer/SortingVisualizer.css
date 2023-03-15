@@ -1,0 +1,17 @@
+.array-container {
+  position: absolute;
+  /* right:50px;*/
+  left: 150px;
+}
+
+.aBar {
+  width: 2px;
+  background-color: black;
+  display: inline-block;
+  margin: 0 1px;
+}
+
+.buttonDiv {
+  position: absolute;
+  left: 500px;
+}
